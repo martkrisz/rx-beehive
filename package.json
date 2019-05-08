@@ -1,0 +1,17 @@
+{
+  "name": "rx-beehive",
+  "version": "1.0.1",
+  "description": "",
+  "main": "store.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krisztián Martinkovics <martinkovics.krisztian@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.5.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.1.1"
+  }
+}
